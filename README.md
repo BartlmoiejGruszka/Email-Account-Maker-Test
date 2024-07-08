@@ -2,7 +2,7 @@
 
 ENG
 
-Simple email account maker that can make as many accounts as you wish. Its created only for learing purpose. If you want use it, fill files names.txt and surnames.txt with wanted data, script will random select data and make a new account with them. You have to pass your own password in line 73. All account that script created will be save in emails.txt file.
+Simple email account maker that can make as many accounts as you wish. Its created only for learning purpose. If you want use it, fill files names.txt and surnames.txt with wanted data, script will random select data and make a new account with them. You have to pass your own password in line 73. All account that script created will be save in emails.txt file.
 
 PL
 
